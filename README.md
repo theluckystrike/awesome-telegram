@@ -136,8 +136,8 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) – Self-hosted bot that re-broadcasts messages from one of your own channels to another after a configurable delay (requires bot admin rights on both source and target channels).
 * [@TickMyPriceBot](https://t.me/TickMyPriceBot?start=awesome) – Crypto price alerts: set a coin and a target level, and get pinged when the market crosses it, plus live prices and charts. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@TikTapSaveBot](https://t.me/TikTapSaveBot) – Downloads TikTok, Instagram and X videos in HD right inside Telegram, and works inline.
-* [@TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot?start=awesome) – Hub bot for Tiny Telegram Tools: one bot covering anonymous inbox, reminders, group expenses, habits, events and more via its Mini App suite. Free tier, one-time 150 Stars Pro upgrades on some tools.
 * [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
+* [@TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot?start=awesome) – Hub bot for Tiny Telegram Tools: one bot covering anonymous inbox, reminders, group expenses, habits, events and more via its Mini App suite. Free tier, one-time 150 Stars Pro upgrades on some tools.
 * [@TimeSheetProBot](https://t.me/TimeSheetProBot?start=awesome) – Clock in/out or log hours by DM, totaled per client.
 * [@TriviaDailyProBot](https://t.me/TriviaDailyProBot?start=awesome) – One daily trivia question as a native quiz poll, with a weekly group leaderboard.
 * [@TyzenhausBot](https://t.me/TyzenhausBot) – shared expenses tracking bot.
